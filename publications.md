@@ -3,10 +3,14 @@ layout: default
 title: Publications
 ---
 
-<script src="https://bibbase.org/show?bib=https://bibbase.org/network/files/5JazZJESYzquvetde&jsonp=1"></script>
+<iframe
+  src="https://bibbase.org/show?bib=https://bibbase.org/network/files/5JazZJESYzquvetde"
+  width="100%"
+  height="800"
+  frameborder="0">
+</iframe>
 
 
-{% bibliography --group_by year --group_order descending %}
 
 # Conference publications
 
