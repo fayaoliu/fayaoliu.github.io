@@ -1,7 +1,12 @@
 ---
 layout: default
-title: About Me
+title: Publications
 ---
 
-# This is my new page
-Here is some content about me.
+
+# Conference publications
+
+
+
+# Journal publications
+
