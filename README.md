@@ -17,9 +17,12 @@ Hello ....
 
 
 ## Publications
-- [View publications](./publications.md)
 
 - [Google Scholar](https://scholar.google.com/citations?user=AxY1-SIAAAAJ)
+  
+- [View publications](./publications.md)
+
+
 
 ## Awards
 
