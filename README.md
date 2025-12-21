@@ -4,7 +4,7 @@
 ## About
 
 ## Publications
-[View publications](./publications)
+[View publications](./publications.md)
 
 ## Awards
 
