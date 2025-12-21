@@ -2,6 +2,10 @@
 ---
 @import "{{ site.theme }}";
 
+.project-name, .project-tagline {
+  display: none;
+}
+
 .page-header {
   /* Replace the URL with your image path */
   background-image: url("assets/images/banner.jpg");
