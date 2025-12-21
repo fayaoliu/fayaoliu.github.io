@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
-{% bibliography %}
+{% bibliography --group_by year --group_order descending %}
 
 # Conference publications
 
