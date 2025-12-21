@@ -4,6 +4,7 @@
 ## About
 
 ## Publications
+[View publications](./publications)
 
 ## Awards
 
