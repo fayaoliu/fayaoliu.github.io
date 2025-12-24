@@ -58,6 +58,3 @@ I develop computational models that learn structured representations of the real
 - M.Sc., Computer Science, National University of Defense Technology (2008–2010)  
 - B.Sc., Computer Science, National University of Defense Technology (2004–2008)  
 
-## Experience
-
-- Scientist / Research Scientist, Institute for Infocomm Research (I²R), A*STAR, Singapore (since Aug 2019)
