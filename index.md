@@ -13,6 +13,7 @@
     <strong>Email:</strong> liu_fayao@a-star.edu.sg<br>
     <strong>Links:</strong>
     <a href="https://scholar.google.com/citations?user=AxY1-SIAAAAJ&hl=en">Google Scholar</a> ·
+    <a href="https://www.linkedin.com/in/fayao-liu-9b392749/">LinkedIn</a>
     <!-- <a href="files/Fayao_Liu_CV.pdf">CV (PDF)</a> -->
     </p>
   </div>
