@@ -9,11 +9,11 @@
     Institute for Infocomm Research (I²R), A*STAR, Singapore</p>
 
     <p>
-    <strong>Research areas:</strong> Machine Learning, Computer Vision, Generative AI (3D vision & multi-modal generative models)<br>
+    <!-- <strong>Research areas:</strong> Machine Learning, Computer Vision, Generative AI (3D vision & multi-modal generative models)<br> -->
     <strong>Email:</strong> liu_fayao@a-star.edu.sg<br>
     <strong>Links:</strong>
     <a href="https://scholar.google.com/citations?user=AxY1-SIAAAAJ&hl=en">Google Scholar</a> ·
-    <a href="files/Fayao_Liu_CV.pdf">CV (PDF)</a>
+    <!-- <a href="files/Fayao_Liu_CV.pdf">CV (PDF)</a> -->
     </p>
   </div>
 </div>
@@ -25,7 +25,7 @@ My research lies at the intersection of **Artificial Intelligence, Computer Visi
 
 I develop computational models that learn structured representations of the real world from images, videos, and multi-modal data, enabling **simulation, forecasting, and content generation in 3D environments**.  
 
-**Research themes**
+**Research interests**
 - 3D vision and scene understanding  
 - Generative models for 3D / multi-modal generation  
 - Structured representation learning from images and videos  
@@ -33,10 +33,9 @@ I develop computational models that learn structured representations of the real
 
 ## Publications
 
-- [Google Scholar](https://scholar.google.com/citations?user=AxY1-SIAAAAJ&hl=en)  
 - [View publications](./publications.md)
+- [Google Scholar](https://scholar.google.com/citations?user=AxY1-SIAAAAJ&hl=en)  
 
-> Tip (optional): In `publications.md`, you can keep it simple: link to Scholar + list 5–10 selected papers with Paper/Code/Project links.
 
 ## Awards & Recognition
 
