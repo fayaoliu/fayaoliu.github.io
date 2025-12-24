@@ -27,7 +27,7 @@ I develop computational models that learn structured representations of the real
 
 **Research themes**
 - 3D vision and scene understanding  
-- Generative models (diffusion) for 3D / multi-modal generation  
+- Generative models for 3D / multi-modal generation  
 - Structured representation learning from images and videos  
 - Generative world modelling for simulation and forecasting  
 
