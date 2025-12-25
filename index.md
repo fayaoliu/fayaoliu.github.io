@@ -26,13 +26,13 @@ My research lies at the intersection of **Artificial Intelligence, Computer Visi
 
 I develop computational models that learn structured representations of the real world from images, videos, and multi-modal data, enabling **simulation, forecasting, and content generation in 3D environments**.  
 
-**Research interests**
+**Research themes**
 - 3D vision and scene understanding  
 - Generative models for 3D / multi-modal generation  
 - Structured representation learning from images and videos  
 - Generative world modelling for simulation and forecasting  
 
-*I am always looking for motivated PhD students. Scholarships are available [link]. Please feel free to contact me if you are interested. Kindly note that only shortlisted candidates will be notified.*
+*I am always looking for motivated PhD students. Scholarships are available [link](https://www.a-star.edu.sg/scholarships/home/scholarships). Please feel free to contact me if you are interested. Kindly note that only shortlisted candidates will be notified.*
 
 ## Publications
 
