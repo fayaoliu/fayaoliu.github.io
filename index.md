@@ -34,7 +34,7 @@ I develop computational models that learn structured representations of the real
 
 *I am always looking for motivated PhD students. Scholarships are available [link](https://www.a-star.edu.sg/scholarships/home/scholarships). Self-funded students like CSC are also welcome. Feel free to drop me an email. Kindly note that only shortlisted candidates will be notified.*
 
-Recently we built a lab-native multi-agent research platform called [Claw AI Lab](https://github.com/Claw-AI-Lab/Claw-AI-Lab). Try it out! We welcome stars, forks, and collaborations.
+Recently we built a lab-native multi-agent research platform called [Claw AI Lab](https://github.com/Claw-AI-Lab/Claw-AI-Lab). Try it out! We welcome feedback, stars, forks, and collaborations.
 
 ## Publications
 
