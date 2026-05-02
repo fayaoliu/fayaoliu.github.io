@@ -32,7 +32,9 @@ I develop computational models that learn structured representations of the real
 - Structured representation learning from multimodal data  
 - Generative world modelling for simulation and forecasting  
 
-*I am always looking for motivated PhD students. Scholarships are available [link](https://www.a-star.edu.sg/scholarships/home/scholarships). Feel free to drop me an email if you are interested. Kindly note that only shortlisted candidates will be notified.*
+*I am always looking for motivated PhD students. Scholarships are available [link](https://www.a-star.edu.sg/scholarships/home/scholarships). Self-funded students like CSC are also welcome. Feel free to drop me an email. Kindly note that only shortlisted candidates will be notified.*
+
+Recently we built a lab-native multi-agent research platform called [Claw AI Lab](https://github.com/Claw-AI-Lab/Claw-AI-Lab). Try it out! We welcome stars, forks, and collaborations.
 
 ## Publications
 
