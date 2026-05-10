@@ -24,7 +24,7 @@
 I am a Research Scientist at the Institute for Infocomm Research (I²R), A*STAR, Singapore.  
 My research lies at the intersection of **Artificial Intelligence, Computer Vision, and Generative World Modelling**, with a focus on **3D vision** and **multi-modal generative models**.
 
-I develop computational models that learn structured representations of the real world from images, videos, and multi-modal data, enabling **simulation, forecasting, and content generation in 3D environments**.  
+I develop computational models that learn structured representations of the real world from images, videos, and multi-modal data, enabling **simulation, forecasting, and asset generation in 3D environments**.  
 
 **Research themes**
 - 3D vision and scene understanding  
