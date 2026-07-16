@@ -5,8 +5,8 @@
   <img src="assets/images/bio2.jpg" style="width: 120px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   
   <div style="flex: 1; min-width: 300px;">
-    <p><strong>Research Scientist</strong><br>
-    Institute for Infocomm Research (I²R), A*STAR, Singapore</p>
+    <p><strong>Research Scientist & Group Leader</strong><br>
+    Institute of Advanced Intelligence and Computing (IAIC), A*STAR, Singapore</p>
 
     <p>
     <!-- <strong>Research areas:</strong> Machine Learning, Computer Vision, Generative AI (3D vision & multi-modal generative models)<br> -->
@@ -21,10 +21,9 @@
 
 ## About
 
-I am a Research Scientist at the Institute for Infocomm Research (I²R), A*STAR, Singapore.  
+I am a Research Scientist and Group Leader at the Institute of Advanced Intelligence and Computing (IAIC), A*STAR, Singapore.  
 My research lies at the intersection of **Artificial Intelligence, Computer Vision, and Generative World Modelling**, with a focus on **3D vision** and **multi-modal generative models**.
-
-I develop computational models that learn structured representations of the real world from images, videos, and multi-modal data, enabling **simulation, forecasting, and asset generation in 3D environments**.  
+Specifically, we develop computational models that learn structured representations of the real world from images, videos, and multi-modal data, enabling **simulation, forecasting, and asset generation in 3D environments**.  
 
 **Research themes**
 - 3D vision and scene understanding  
@@ -34,7 +33,6 @@ I develop computational models that learn structured representations of the real
 
 *I am always looking for motivated PhD students. Scholarships are available [link](https://www.a-star.edu.sg/scholarships/home/scholarships). Self-funded students like CSC are also welcome. Feel free to drop me an email. Kindly note that only shortlisted candidates will be notified.*
 
-Recently we built a lab-native multi-agent research platform called [Claw AI Lab](https://github.com/Claw-AI-Lab/Claw-AI-Lab). Try it out! We welcome feedback, stars, forks, and collaborations.
 
 ## Publications
 
