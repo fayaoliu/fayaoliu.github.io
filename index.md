@@ -21,7 +21,7 @@
 
 ## About
 
-I am a Research Scientist and Group Leader at the Institute of Advanced Intelligence and Computing (IAIC), A*STAR, Singapore.  
+I am a Senior Research Scientist and Group Leader at the Institute of Advanced Intelligence and Computing (IAIC), A*STAR, Singapore.  
 My research lies at the intersection of **Artificial Intelligence, Computer Vision, and Generative World Modelling**, with a focus on **3D vision** and **multi-modal generative models**.
 Specifically, we develop computational models that learn structured representations of the real world from images, videos, and multi-modal data, enabling **simulation, forecasting, and asset generation in 3D environments**.  
 
@@ -31,7 +31,7 @@ Specifically, we develop computational models that learn structured representati
 - Structured representation learning from multimodal data  
 - Generative world modelling for simulation and forecasting  
 
-*I am always looking for motivated PhD students. Scholarships are available [link](https://www.a-star.edu.sg/scholarships/home/scholarships). Self-funded students like CSC are also welcome. Feel free to drop me an email. Kindly note that only shortlisted candidates will be notified.*
+*I am always looking for motivated PhD students. Scholarships are available [link](https://www.a-star.edu.sg/scholarships/home/scholarships). Self-funded students such as CSC are also welcome. Feel free to drop me an email. Kindly note that only shortlisted candidates will be notified.*
 
 
 ## Publications
