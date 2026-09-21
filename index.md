@@ -49,9 +49,11 @@ Specifically, we develop computational models that learn structured representati
 
 ## Academic Service
 
+- **Area Chair**, CVPR 2027
+- **Senior Program Committee**, AAAI 2027
 - **Area Chair**, CVPR 2026
 - **Area Chair & Research Interaction Chair**, 3DV 2025  
-- **Associate Editor**, *IEEE Transactions on Multimedia* (Oct 2024 – Sept 2026)  
+- **Associate Editor**, *IEEE Transactions on Multimedia* (Oct 2024 – Sept 2028)  
 - **Associate Editor**, *IEEE Transactions on Circuits and Systems for Video Technology* (Jan 2023 – Dec 2025)    
 
 ## Education
