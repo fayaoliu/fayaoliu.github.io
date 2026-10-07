@@ -49,9 +49,8 @@ Specifically, we develop computational models that learn structured representati
 
 ## Academic Service
 
-- **Area Chair**, CVPR 2027
+- **Area Chair**, CVPR 2027， 2026
 - **Senior Program Committee**, AAAI 2027
-- **Area Chair**, CVPR 2026
 - **Area Chair & Research Interaction Chair**, 3DV 2025  
 - **Associate Editor**, *IEEE Transactions on Multimedia* (Oct 2024 – Sept 2028)  
 - **Associate Editor**, *IEEE Transactions on Circuits and Systems for Video Technology* (Jan 2023 – Dec 2025)    
@@ -60,5 +59,10 @@ Specifically, we develop computational models that learn structured representati
 
 - Ph.D., Computer Science, The University of Adelaide (2011–2015)  
 - M.Sc., Computer Science, National University of Defense Technology (2008–2010)  
-- B.Sc., Computer Science, National University of Defense Technology (2004–2008)  
+- B.Sc., Computer Science, National University of Defense Technology (2004–2008)
+
+
+---
+
+Outside of work, I enjoy skiing ⛷️ and playing basketball 🏀.
 
